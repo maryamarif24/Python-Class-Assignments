@@ -24,16 +24,22 @@ Easy-to-use interface powered by Streamlit.
 # 🚀 How to Run the App
 Ensure Python and Streamlit are installed:
 
+```python
 pip install streamlit
+```
 
 Clone this repository and navigate to the project folder:
 
+```python
 git clone <your-repo-url>
 cd password-strength-meter
+```
 
 Run the Streamlit app:
 
+```python
 streamlit run app.py
+```
 
 # 📊 Usage Instructions
 1. Check Password Strength:
