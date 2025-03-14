@@ -55,21 +55,60 @@ This feature helps you track and reflect on your reading journey.
 
 ---
 
+
 ## 🛠️ Technologies Used
 
-The project leverages the following technologies:
-
-- **Python**: Core programming language used to implement the system.  
-- **SQLite**: Lightweight database solution for storing book information persistently.  
-- **CLI (Command-Line Interface)**: Provides an interactive menu-based interface for users.  
+- **Python** (for core logic and data handling)
+- **SQLite** (for persistent book storage)
+- **JSON** (for optional data import/export)
+- **CLI Interface** (for user-friendly interaction)
 
 ---
 
-## 🚀 Getting Started
+## 📖 Usage Instructions
 
-### 1. Prerequisites
+1. **Clone the repository**:  
+    ```bash
+    git clone https://github.com/yourusername/library-manager.git
+    cd library-manager
+    ```
 
-Ensure you have Python installed on your machine. Check using:
+2. **Run the script**:  
+    ```bash
+    python library_manager.py
+    ```
 
-```bash
-python --version
+3. **Follow the menu** to add, edit, search, or manage your book collection.
+
+---
+
+## 📊 Upcoming Features
+
+- 📌 **Statistics Dashboard** – View total books, read/unread counts.
+- 📌 **Import/Export** – Bulk add books using JSON files.
+- 📌 **Enhanced Search** – Multi-field and case-insensitive search.
+
+---
+
+## 🏆 Project Completion
+
+I have successfully completed this **Personal Library Manager** as part of my **assignment** and the prestigious **BaytUlHikmah Challenge**. This project not only deepened my understanding of Python and database management but also allowed me to explore real-world **CRUD** applications.
+
+Participating in the **BaytUlHikmah Challenge** has been an enriching experience, providing an opportunity to improve my problem-solving skills while building practical projects.
+
+---
+
+## 📣 Acknowledgments
+
+- **BaytUlHikmah Challenge** for motivating me to push my limits.
+- **Python & SQLite** community for their excellent documentation.
+- Everyone who supported and encouraged me throughout this journey.
+
+---
+
+## 📬 Contact
+
+If you have any questions, feel free to reach out!
+
+📧 Email: maryamarif1313@gmail.com  
+🌐 LinkedIn: [Maryam Arif](https://www.linkedin.com/in/maryam-arif-71b0992b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2F6BFr%2FIQMWhNOruFtcX9w%3D%3D)  
